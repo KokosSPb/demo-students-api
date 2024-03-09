@@ -9,3 +9,13 @@ make run
 ``
 make install
 ``
+
+### Для создания файлов миграций
+``
+make makemigrations
+``
+
+### Для исполнения миграций
+``
+make migrate
+``
